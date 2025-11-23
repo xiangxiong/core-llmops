@@ -1,3 +1,5 @@
+# 免费畅用 Gemini 3.0 Pro Antigravity IDE：国内详细安装&使用教程
+
 本文档旨在指导用户完成 Antigravity 的安装，并针对常见的登录和运行问题提供解决方案。
 
 1. 安装步骤 (Installation)
