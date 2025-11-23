@@ -1,2 +1,2 @@
 # core-llmops
-<a href="https://github.com/xiangxiong/core-llmops/blob/main/Gemini%203.0%20pro%20Antigravity%20%E5%85%8D%E8%B4%B9%20IDE%20%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md">Gemini 3.0 pro Antigravity 免费 IDE 国内使用指南</a>
+<a href="https://github.com/xiangxiong/core-llmops/blob/main/%E5%85%8D%E8%B4%B9%E7%95%85%E7%94%A8%20Gemini%203.0%20Pro%20Antigravity%20IDE%EF%BC%9A%E5%9B%BD%E5%86%85%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%26%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md">免费畅用 Gemini 3.0 Pro Antigravity IDE：国内详细安装&使用教程</a>
