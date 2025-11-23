@@ -1,2 +1,2 @@
 # core-llmops
-ai agent llmops
+<a href="https://github.com/xiangxiong/core-llmops/blob/main/Gemini%203.0%20pro%20Antigravity%20%E5%85%8D%E8%B4%B9%20IDE%20%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md">Gemini 3.0 pro Antigravity 免费 IDE 国内使用指南</a>
