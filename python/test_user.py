@@ -5,16 +5,20 @@ from user import main
 test_input1 = {
   "arg1": [
     {
-      "taskId": "RT1435570531072622592"
+      "taskId": "RT1445818378583564288",
+      "erpDeptId": "12059"
     },
     {
-      "taskId": "RT1434923069735854080"
+      "taskId": "RT1445784435763208192",
+      "erpDeptId": "4225"
     },
     {
-      "taskId": "RT1434922522605674496"
+      "taskId": "RT1445784351931654144",
+      "erpDeptId": "12551"
     },
     {
-      "taskId": "RT1431281757561438208"
+      "taskId": "RT1445784271208079360",
+      "erpDeptId": "12059"
     }
   ]
 }
