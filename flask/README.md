@@ -18,3 +18,15 @@ source venv/bin/activate
 ```
 pip freeze > requirements.txt
 ```
+
+# 拦截器的基本概念
+拦截器（Interceptor）是Spring AOP（Aspect Oriented Programming）中的一个概念，它允许在方法调用前后执行额外的逻辑。
+
+工作原理:
+拦截器可以用于实现日志记录、性能监控、安全验证等功能.
+
+拦截器在Spring AOP中，通常被定义为切面（Aspect），切面是一个类，该类包含多个方法，这些方法可以添加到目标对象中的方法中，从而实现拦截。
+
+全局拦截器
+
+模块拦截器
