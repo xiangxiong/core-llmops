@@ -21,7 +21,6 @@ def cookie():
     expires_time = datetime.datetime.now() + datetime.timedelta(days=1)
     response.set_cookie("username", "h22ello", expires=expires_time);
     response.set_cookie("password", "h22ello", expires=expires_time);
-
     return response;
 
 @app.route("/get_cookie")

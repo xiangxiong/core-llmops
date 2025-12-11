@@ -5,7 +5,7 @@ from controller.article import article
 
 app = Flask(__name__)
 app.register_blueprint(user)
-app.register_blueprint(article)
+app.register_blueprint(article) 
     
 if __name__ == '__main__':
     app.run(debug=True)
