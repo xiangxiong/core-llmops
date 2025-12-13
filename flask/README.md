@@ -36,10 +36,14 @@ pip freeze > requirements.txt
 
 LLM + TEXT2sql + DSL
 大模型 + text2sql + dsl + 项目渲染器/ JSON schema 设计.
-
+- 模型部署.
 - shadowcn - taliwandcs , pian
-- langchianjs 、ollama、qwen2.06b.
+- langchianjs 、ollama、qwen2.06b. + SSE
 - 服务端ai 能力集成.
+- 模型本地化部署.
+
+text to sql
+data to chart
 
 ### 项目搭建nuxt 框架.
 
