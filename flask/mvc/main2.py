@@ -21,7 +21,6 @@ def login():
 @app.route("/update_user")
 def update_user():
     return "<p>更新用户成功</p>"
-
 # 全局拦截器
 @app.before_request
 def before():
