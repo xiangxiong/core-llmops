@@ -4,4 +4,6 @@ langchain_core==1.2.5
 langchain_deepseek==1.0.1
 langchain_text_splitters==1.1.0
 langgraph==1.0.5
+pymilvus==2.6.5
+pymilvus_model==0.3.2
 python-dotenv==1.2.1
